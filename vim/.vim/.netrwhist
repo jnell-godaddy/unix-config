@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/vmadmin/workspace/arti/trunk/brandgroup'
+let g:netrw_dirhist_2='/home/vmadmin/workspace/arti/trunk/brandgroup/brandgroup-ear'
+let g:netrw_dirhist_3='/home/vmadmin/workspace/arti/ServerDSL/src/main/resources/scripts/artifact'
+let g:netrw_dirhist_4='/home/vmadmin/workspace/arti/trunk/token'
+let g:netrw_dirhist_5='/home/vmadmin/workspace/arti/trunk/platorm/build'
+let g:netrw_dirhist_6='/home/vmadmin/workspace/arti/trunk/platorm/fundamo-platform-http-airtime'
+let g:netrw_dirhist_7='/home/vmadmin/workspace/arti/trunk/platorm/fundamo-platform-http-SMS'
+let g:netrw_dirhist_8='/home/vmadmin/workspace/arti/trunk/platorm'
